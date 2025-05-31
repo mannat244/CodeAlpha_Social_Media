@@ -170,8 +170,8 @@ export default function Home() {
       {isLogin ? (
         <>
           <span className="mr-2">🆕</span>
-          Don't have an account? Sign Up
-        </>
+Don&apos;t have an account? Sign Up       
+ </>
       ) : (
         <>
           <span className="mr-2">👋</span>
